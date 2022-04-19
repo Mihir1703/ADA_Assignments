@@ -1,0 +1,32 @@
+The index of defective coin 1 with weight of 4 with comparison count = 9
+Time elapsed for above approach : 7
+The index of defective coin 2 with weight of 4 with comparison count = 10
+Time elapsed for above approach : 7
+The index of defective coin 3 with weight of 4 with comparison count = 9
+Time elapsed for above approach : 4
+The index of defective coin 4 with weight of 4 with comparison count = 10
+Time elapsed for above approach : 4
+The index of defective coin 5 with weight of 4 with comparison count = 10
+Time elapsed for above approach : 4
+The index of defective coin 6 with weight of 4 with comparison count = 11
+Time elapsed for above approach : 5
+The index of defective coin 7 with weight of 4 with comparison count = 9
+Time elapsed for above approach : 5
+The index of defective coin 8 with weight of 4 with comparison count = 10
+Time elapsed for above approach : 6
+The index of defective coin 9 with weight of 4 with comparison count = 8
+Time elapsed for above approach : 5
+The index of defective coin 10 with weight of 4 with comparison count = 9
+Time elapsed for above approach : 4
+The index of defective coin 11 with weight of 4 with comparison count = 8
+Time elapsed for above approach : 3
+The index of defective coin 12 with weight of 4 with comparison count = 10
+Time elapsed for above approach : 3
+The index of defective coin 13 with weight of 4 with comparison count = 11
+Time elapsed for above approach : 3
+The index of defective coin 14 with weight of 4 with comparison count = 9
+Time elapsed for above approach : 3
+The index of defective coin 15 with weight of 4 with comparison count = 10
+Time elapsed for above approach : 3
+The index of defective coin 16 with weight of 4 with comparison count = 9
+Time elapsed for above approach : 4
